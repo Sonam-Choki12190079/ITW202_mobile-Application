@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TODO_04</string>
+    <string name="enter_the_information">Enter the information</string>
+    <string name="send">SEND</string>
+</resources>
