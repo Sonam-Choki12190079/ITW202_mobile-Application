@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ToDo_4</string>
+    <string name="send_button">Send</string>
+    <string name="enter_your_information">Enter your information</string>
+    <string name="received_message">Received message</string>
+    <string name="label">label</string>
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Enter Your Reply Here</string>
+    <string name="reply_received">Reply Received</string>
+
+</resources>
